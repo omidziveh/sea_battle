@@ -35,7 +35,7 @@ Sea Battle V2 is a cool take on the classic battleship game, cooked up in Python
     * The bot picks random spots to attack on your board.
     * Keep going until someone's entire fleet is at the bottom of the sea!
 
-##What's Where? (File Map) 🗺️
+## What's Where? (File Map) 🗺️
 
 * `main.py`: The big boss. Starts the game, handles clicks and stuff.
 * `attack_page.py`: Runs the show during the attack phase.
